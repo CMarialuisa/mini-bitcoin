@@ -7,7 +7,7 @@ bool executando = true;
 while (executando)
 {
     Console.WriteLine($"\n=== MINI BITCOIN WALLET ===");
-    Console.WriteLine($"💰 Cotação Atual BTC: {cotacaoAtual:C}");
+    Console.WriteLine($" Cotação Atual BTC: {cotacaoAtual:C}");
     Console.WriteLine($"1. Ver Saldos e Patrimônio");
     Console.WriteLine($"2. Comprar Bitcoin");
     Console.WriteLine($"3. Vender Bitcoin");
